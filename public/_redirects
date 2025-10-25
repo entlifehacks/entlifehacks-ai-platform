@@ -1,0 +1,7 @@
+# Netlify redirects for single-page application
+/*    /index.html   200
+
+# Redirect www to non-www (optional - configure in Netlify dashboard)
+# https://www.entlifehacks.com/*  https://entlifehacks.com/:splat  301!
+
+# Force HTTPS (handled by Netlify automatically)
